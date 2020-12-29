@@ -10,7 +10,7 @@ the admin is the only one to add any image and user will view and search only.
 
 ## Project instruction 
 to start using this app you can first clone it on github
-and user visual code for writing codes
+and user visual code for writing codes.
 ## Technology used
 * Python3.6
 * Django
