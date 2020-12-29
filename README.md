@@ -19,7 +19,7 @@ and user visual code for writing codes.
 * html
 * javascript
 * css
-* Postgres SQLALchem
+* Postgres SQLALchemy
 ## Run
 Use Terminal to open the server and the brouser to run this application
 
