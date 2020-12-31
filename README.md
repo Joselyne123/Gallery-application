@@ -4,7 +4,7 @@ This application will show the user on the dashboard all the Photos that the adm
 ## INGABIRE Joselyne
 ## Description
 
-Personal Gallery this have dashborad used by a user and have an admin which add Image the user can be search image by category and view image by Location. , 29 September 2019
+Personal Gallery this have dashborad used by a user and have an admin which add Image the user can be search image by category and view image by Location.
 
 the admin is the only one to add any image and user will view and search only.
 
